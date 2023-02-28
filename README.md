@@ -22,3 +22,7 @@ I'm currently learning:
 - CSS
 - Time Management
 - To improve my learning & skills
+
+
+## Stats
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-page&show_icons=true&bg_color=00000000)
