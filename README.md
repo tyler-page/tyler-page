@@ -25,4 +25,10 @@ I'm currently learning:
 
 
 ## Stats
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-page&show_icons=true&bg_color=00000000)
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-page&show_icons=true&theme-gruvbox)
+
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler-page&hide_progress=false)](https://github.com/tyler-page/github-readme-stats)
+
+
