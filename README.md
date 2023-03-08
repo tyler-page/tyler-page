@@ -23,6 +23,7 @@ I'm currently learning:
 
 - HTML
 - CSS
+- JavaScript
 - Time Management
 - To improve my learning & skills
 
