@@ -25,7 +25,7 @@ I'm currently learning:
 - CSS
 - JavaScript
 - Time Management
-- To improve my learning & skills
+
 
 
 ## Stats
