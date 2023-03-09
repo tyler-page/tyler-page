@@ -35,4 +35,6 @@ I'm currently learning:
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler-page&langs_count=8)](https://github.com/tyler-page/github-readme-stats)
 
+## WakaTime
+[![Tyler's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tyler_page)](https://github.com/tyler-page/github-readme-stats)
 
