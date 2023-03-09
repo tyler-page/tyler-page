@@ -29,7 +29,7 @@ I'm currently learning:
 
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-page)](https://github.com/tyler-page/github-readme-stats)
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-page)](https://github.com/tyler-page/github-readme-stats)
 
 
 ## Most Used Languages
