@@ -33,6 +33,6 @@ I'm currently learning:
 
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler-page&hide_progress=false)](https://github.com/tyler-page/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler-page&langs_count=8)](https://github.com/tyler-page/github-readme-stats)
 
 
