@@ -38,3 +38,6 @@ I'm currently learning:
 ## WakaTime
 [![Tyler's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tyler_page)](https://github.com/tyler-page/github-readme-stats)
 
+## Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tyler-page&theme=dark)](https://git.io/streak-stats)
+
