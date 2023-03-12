@@ -1,7 +1,6 @@
-<h1 align="center"> Tyler Stuart Page </h1>
+<h1 align="center"> Tyler Stuart Page </h1> 
 
-![image](https://user-images.githubusercontent.com/125750266/221738157-0b3ef170-7d8a-4001-9892-39df227331fc.png)
-
+![image](https://user-images.githubusercontent.com/125750266/224525253-42333975-42ef-46c9-b097-12b1e27f5c69.png)
 
 # Junior Software Developer
 
