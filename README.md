@@ -1,10 +1,9 @@
-<h1 align="center"> Tyler Stuart Page </h1> 
-
 ![image](https://user-images.githubusercontent.com/125750266/224525253-42333975-42ef-46c9-b097-12b1e27f5c69.png)
 
-# Junior Software Developer
+<h1 align="center"> Tyler Stuart Page </h1>
+<h2 align="center"> Junior Software Developer </h2>
 
-<img src="https://user-images.githubusercontent.com/125750266/219950426-f087ba40-cafb-48d8-81e8-03853f467d34.png" height="250" width="250">
+<img src="https://user-images.githubusercontent.com/125750266/224526261-36cf4663-6e5a-4c40-a40b-4ac8b5a00766.png" height="250" width="250">
 
 # About
 Hi there, I'm Tyler, I'm Autistic and I have started my journey of learning how to code and hopefully begin a career in the Software Development Industry. I have never done anything like this before, I do like a challenge and it will also teach me some new skills for career progression. I am good with computers and have always been interested in them since I was young. I am enjoying my CYF journey at the moment and learning more about HTML, CSS and JS.
