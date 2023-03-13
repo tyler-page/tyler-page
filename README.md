@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/125750266/224525253-42333975-42ef-46c9-b097-12b1e27f5c69.png)
+![image](https://user-images.githubusercontent.com/125750266/224617338-73d3de05-fcfc-4244-9717-fcea94972956.png)
 
 <h1 align="center"> Tyler Stuart Page </h1>
 <h2 align="center"> Junior Software Developer </h2>
